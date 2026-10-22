@@ -1,0 +1,6 @@
+*.exe
+*.blockmap
+*.vault
+local.settings.json
+stalker.log
+.env*
