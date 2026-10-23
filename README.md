@@ -6,7 +6,7 @@ A free personal live TV and VOD player for Windows and the browser.
 
 ## Windows installation
 
-1. Download `MagPortal-Setup-0.2.0.exe` from the release assets.
+1. Download `MagPortal-Setup-0.2.1.exe` from the release assets.
 2. Run the installer for your Windows account.
 3. Open **MagPortal** from the desktop or Start menu.
 4. Enter your own provider details or import an authorized M3U playlist.
@@ -19,6 +19,7 @@ Windows 10/11, 64-bit. The runtime and private local server are included. No sep
 - Live TV, movies, series, favorites, and saved viewing progress where supplied by your provider.
 - Local subtitle files and optional subtitle API configuration.
 - Encrypted Windows app data, a private loopback server, and a sandboxed app window.
+- Fresh sign-in on Connect, automatic renewal of an expired provider session, and an Open Windows app button on the website.
 
 MagPortal is free to download and use as a personal player. It includes no channels, subscriptions, shared accounts, or provider credentials. You must supply details legitimately assigned to you and have permission to use the content. Provider subscription fees, if any, are separate.
 
