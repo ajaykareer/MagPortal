@@ -26,7 +26,7 @@ MagPortal is free to download and use as a personal player. It includes no chann
 
 ## Browser version
 
-Open [MagPortal Web](https://magportal-player.goli15.chatgpt.site). For MAG providers, choose **Sign in**, then enter your own provider URL and assigned MAC address. The browser version loads channel groups in batches and uses a bounded media relay for protected playback, including supported HTTP sources. Playback links are encrypted, expire, and work only for your signed-in account. Saved details remain in the current browser tab; signing out clears them.
+Open [MagPortal Web](https://magportal-player.goli15.chatgpt.site). No ChatGPT account is needed. Enter your own provider URL and assigned MAC address, then choose **Connect**. Guest access starts automatically; allow this site's cookies. ChatGPT sign-in is optional. The browser version loads channel groups in batches and uses a bounded media relay for protected playback, including supported HTTP sources. Playback links are encrypted, expire, and require the matching guest browser or signed-in account. Saved details remain in the current browser tab; changing the browser identity clears them.
 
 The hosted player runs independently of your PC. Compatible video formats and provider session rules still apply; some sources require the Windows app. Generic playlists can play directly when their HTTPS and cross-origin settings permit it. Free hosting has usage limits; availability is not guaranteed. No paid app account or paid service was added.
 
